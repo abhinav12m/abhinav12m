@@ -94,7 +94,3 @@ I'm also worked on a **soccer player tracking project** using YOLOv8 + Optical F
 > Whether it’s ML pipelines or midfield formations — I’m always up for a chat.
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hala+Madrid+and+Data+Science!+🚀" alt="Typing SVG" />
-</p>
