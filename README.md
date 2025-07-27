@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/abhinav12m/abhinav12m/blob/main/files/ChatGPT%20Image%20Jul%2027%2C%202025%2C%2012_28_36%20AM.png" alt="Abhinav Maheshwari Banner" width="100%" />
+  <img src="https://github.com/abhinav12m/abhinav12m/blob/main/files/ChatGPT%20Image%20Jul%2027%2C%202025%2C%2012_28_36%20AM.png" alt="Abhinav Maheshwari Banner" width="50%" height="auto" />
 </p>
 
 <h1 align="center">Hola! I'm Abhinav ⚽</h1>
