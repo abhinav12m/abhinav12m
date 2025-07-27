@@ -26,7 +26,7 @@ Off the clock, you’ll find me watching El Clásico reruns, analyzing Vinícius
 
 ### ⚙️ Featured Projects
 
-#### 🧠 RetentionCloud | [GitHub Repo](#) | [Demo](#)
+#### 🧠 RetentionCloud | [GitHub Repo](#)
 > Real-time churn + CLV prediction system built on AWS  
 > ⚙️ XGBoost + SMOTE + Lambda + SageMaker + Streamlit  
 > 📊 Helped businesses identify high-risk, high-value users  
@@ -42,7 +42,7 @@ Off the clock, you’ll find me watching El Clásico reruns, analyzing Vinícius
 
 ---
 
-#### 📝 QuizCraft AI | [GitHub Repo](#)
+#### 📝 QuizCraft AI |
 > Gemini Pro-powered quiz generator for any PDF  
 > 📄 PDF parsing → Semantic chunking → Topic-based quizzes  
 > 🧠 LLM agent + LangChain + ChromaDB + Streamlit interface  
@@ -58,7 +58,7 @@ Off the clock, you’ll find me watching El Clásico reruns, analyzing Vinícius
 > - Else: wait for Mbappe’s magic (still hopeful)
 
 I'm also worked on a **soccer player tracking project** using YOLOv8 + Optical Flow to map real match footage into movement heatmaps.  
-![📈 Visual analytics of soccer formations + trajectories](https://github.com/abhinav12m/FLOWTBALL)
+![Visual analytics of soccer formations + trajectories](https://github.com/abhinav12m/FLOWTBALL)
 
 ---
 
