@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/abhinav12m/abhinav12m/blob/main/assets/banner.png" alt="Abhinav Maheshwari Banner" width="100%" />
+  <img src="[https://github.com/abhinav12m/local/blob/main/ChatGPT%20Image%20Jul%2027%2C%202025%2C%2012_28_36%20AM.png]" alt="Abhinav Maheshwari Banner" width="100%" />
 </p>
 
 <h1 align="center">Hola! I'm Abhinav ⚽</h1>
@@ -89,7 +89,7 @@ I'm also worked on a **soccer player tracking project** using YOLOv8 + Optical F
 
 📧 abhinav99m@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavvmmaheshwari)
-📂 [Resume](#) *(host via Google Drive or GitHub Pages)*
+📂 [Resume](https://github.com/abhinav12m/local/blob/main/Resume_Abhinav_Maheshwari.pdf)
 
 > Whether it’s ML pipelines or midfield formations — I’m always up for a chat.
 
