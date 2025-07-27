@@ -3,89 +3,98 @@
   <img src="https://github.com/abhinav12m/abhinav12m/blob/main/assets/banner.png" alt="Abhinav Maheshwari Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Abhinav 👋</h1>
+<h1 align="center">Hola! I'm Abhinav ⚽</h1>
 
 <p align="center">
-  🧠 Machine Learning Engineer | 🤖 Generative AI Explorer | 📊 Data Storyteller  
+  🧠 Machine Learning Engineer | 🤖 Generative AI Explorer | 💻 Data Storyteller | 🏟️ Real Madrid Devotee
 </p>
 
 ---
 
-### 🔍 About Me
+### ⚡ About Me
 
-I'm a data scientist who builds things that work — not just in notebooks, but in the real world.
+I’m a data scientist who loves building things that go from messy JSON blobs to production dashboards — or from zero-shot prompts to LLM agents.
 
-- 🧠 Specialize in AI/ML systems, predictive modeling, and NLP workflows  
-- 🛠️ Love architecting end-to-end pipelines — from data ingestion to cloud deployment  
-- 💬 Fan of open-source, clean code, and bad puns  
-- 📍 Currently at UMD pursuing my MS in Data Science
+Off the clock, you’ll find me watching El Clásico reruns, analyzing Vinícius Jr.’s heatmaps, or convincing AI to predict the next LaLiga winner (spoiler: it’s not Barca).
+
+- 📍 MS in Data Science @ University of Maryland (2023–25)  
+- 🧠 Interests: Generative AI, ML Infrastructure, NLP, Sports Analytics  
+- 🛠️ Skills: PyTorch, TensorFlow, LangChain, AWS, GCP, SQL, Streamlit  
+- 👟 Dream Project: Build a tactical assistant for coaches using computer vision + LLMs
 
 ---
 
 ### ⚙️ Featured Projects
 
 #### 🧠 RetentionCloud | [GitHub Repo](#) | [Demo](#)
-> Churn + CLV prediction deployed on AWS with XGBoost and Streamlit  
-> 📦 Lambda + SageMaker + S3 + Real-time API predictions  
+> Real-time churn + CLV prediction system built on AWS  
+> ⚙️ XGBoost + SMOTE + Lambda + SageMaker + Streamlit  
+> 📊 Helped businesses identify high-risk, high-value users  
 ![RetentionCloud](https://github.com/abhinav12m/abhinav12m/blob/main/assets/retentioncloud.gif)
 
 ---
 
 #### 🧪 Clinical Trial Sentiment Analysis | [GitHub Repo](#)
-> NLP pipeline analyzing Reddit discourse on clinical trials  
-> 🧾 VADER + GPT-3.5 + Longitudinal trend analysis  
+> NLP pipeline analyzing Reddit sentiment on clinical trials  
+> 🤖 Used PRAW, VADER, and GPT-3.5 for sentiment & ethical insights  
+> 📈 Enables longitudinal tracking of public opinion on medical research  
 ![Sentiment Analysis](https://github.com/abhinav12m/abhinav12m/blob/main/assets/sentiment.png)
 
 ---
 
 #### 📝 QuizCraft AI | [GitHub Repo](#)
-> Quiz generator powered by Gemini Pro + LangChain  
-> 📄 PDF ingestion, semantic chunking, and interactive Streamlit UI  
+> Gemini Pro-powered quiz generator for any PDF  
+> 📄 PDF parsing → Semantic chunking → Topic-based quizzes  
+> 🧠 LLM agent + LangChain + ChromaDB + Streamlit interface  
 ![QuizCraft](https://github.com/abhinav12m/abhinav12m/blob/main/assets/quizcraft.gif)
 
 ---
 
-### 🧰 My Toolbox
+### ⚽ Football Meets AI (just for fun)
+
+> What if machine learning had to predict Real Madrid’s success?
+> It'd be an easy model:  
+> - If (ChampionsLeague): return 🏆  
+> - Else: wait for Mbappe’s magic (still hopeful)
+
+I'm also worked on a **soccer player tracking project** using YOLOv8 + Optical Flow to map real match footage into movement heatmaps.  
+![📈 Visual analytics of soccer formations + trajectories](https://github.com/abhinav12m/FLOWTBALL)
+
+---
+
+### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=data:image/svg+xml;base64,...)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/-GCP-333?style=flat&logo=googlecloud)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
 
 ---
 
-### 📊 GitHub Stats
+### 📣 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav12m&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav12m&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
-
-### ⏳ Currently Exploring
-
-- 📹 Optical Flow for Player Tracking in Soccer (Computer Vision project)
-- 🧱 Better chunking + retrieval for LLM-powered assistants
-- 🛠️ Scaling ML pipelines using AWS services and Docker
+- 📹 Player tracking using Optical Flow + DeepSORT  
+- 🧱 Improving LLM context retrieval via hybrid chunking  
+- 🧪 LLM evaluation using prompt complexity metrics  
+- 🚀 Building an AI-based resume matcher & feedback system  
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let’s Connect!
 
 📧 abhinav99m@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavvmmaheshwari)
-📂 [Resume](#) *(host on GitHub or Google Drive)*  
+📂 [Resume](#) *(host via Google Drive or GitHub Pages)*
 
-*Always happy to chat about ML infra, generative AI, or how GPTs are taking over our brains.*
+> Whether it’s ML pipelines or midfield formations — I’m always up for a chat.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Thanks+for+scrolling+by!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hala+Madrid+and+Data+Science!+🚀" alt="Typing SVG" />
 </p>
